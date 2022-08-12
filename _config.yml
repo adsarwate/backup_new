@@ -205,14 +205,14 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Abutto
-  first_name: [Adani, Adani Bennett, A. B.]
+  last_name: Sarwate
+  first_name: [Anand, A. D., Anand Dilip]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: asarwate.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
