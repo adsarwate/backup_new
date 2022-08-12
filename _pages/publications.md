@@ -9,6 +9,7 @@ order: 3
 group_by: abbr
 ---
 <!-- Pubs -->
+
 <h2>Research Reports (Non-Peer Reviewed)</h2>
 <div class="publications">
   {%- for y in "2022" %}
@@ -17,7 +18,7 @@ group_by: abbr
   {% endfor %}
 </div>
 
-<h2>Theses / Student Projects</h2>
+<h2>Theses</h2>
 <div class="publications">
   {%- for y in "2021" %}
     <h5 class="year">{{y}}</h5>
